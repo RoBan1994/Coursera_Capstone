@@ -1,7 +1,7 @@
 # Coursera_Capstone
 Repository created for the completion of the Capstone Project in Coursera's IBM's Data Science - Course 9
 
-**Steps to upload file from IBM Watson:
+<b>Steps to upload file from IBM Watson:</b>
 
 1. Download file from IBM watson as .ipynb to ~\Desktop\projects\Coursera_Capstone
 2. Execute the following commands:
