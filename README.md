@@ -5,6 +5,7 @@ Repository created for the completion of the Capstone Project in Coursera's IBM'
 
 1. Download file from IBM watson as .ipynb to ~\Desktop\projects\Coursera_Capstone
 2. Execute the following commands:
-    a. git add <file_name>            (Replace <file_name> with the actual name of the file)
-    b. git commit -m <user message>   (Replce <user message> with and actual message)
+
+    a. git add <file_name>            (Replace <file_name> with the actual name of the file) \n
+    b. git commit -m <user message>   (Replce <user message> with and actual message) \n
     c. git push
