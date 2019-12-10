@@ -8,6 +8,6 @@ Repository created for the completion of the Capstone Project in Coursera's IBM'
 
     a. git add <file_name>            (Replace <file_name> with the actual name of the file)
 
-    b. git commit -m <user message>   (Replce <user message> with and actual message)
+    b. git commit -m <user_message>   (Replce <user message> with and actual message)
 
     c. git push
