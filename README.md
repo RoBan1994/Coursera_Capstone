@@ -14,5 +14,8 @@ Repository created for the completion of the Capstone Project in Coursera's IBM'
 
 Note: git status is useful.
 
-Link to Project Paper: 
+Link to Project Report: 
 https://docs.google.com/document/d/1DI6qxFCnlWpFBkLlRkOjnyaMzqOBpzvfMX8wcQbXiVg/edit?usp=sharing
+
+Link to Project Presentation:
+https://docs.google.com/presentation/d/14-lI2WxSGg3KC6N0KZ38m7pSmyefo3Qk_ILajAwHgnw/edit?usp=sharing
