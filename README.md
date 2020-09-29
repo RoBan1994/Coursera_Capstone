@@ -13,3 +13,6 @@ Repository created for the completion of the Capstone Project in Coursera's IBM'
     c. git push
 
 Note: git status is useful.
+
+Link to Project Paper: 
+https://docs.google.com/document/d/1DI6qxFCnlWpFBkLlRkOjnyaMzqOBpzvfMX8wcQbXiVg/edit?usp=sharing
